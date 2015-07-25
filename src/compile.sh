@@ -1,0 +1,1 @@
+/home/zylex/arm-pandora-linux-gnueabi/bin/g++  -std=c++11 -o /home/zylex/Storage/ZyPandora/crosst main.cpp -lX11 -lEGL -lGLESv2 -Ofast -pipe -mcpu=cortex-a8 -mfpu=neon -mfloat-abi=softfp -mno-unaligned-access -fsingle-precision-constant -fsigned-char  -mvectorize-with-neon-double -ftree-vectorize

@@ -1,0 +1,1694 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"netw",
+				"networkThreadFrameCounter	long long"
+			],
+			[
+				"mainThreadFr",
+				"mainThreadFrameTime	float"
+			],
+			[
+				"main",
+				"mainThreadTimer	zge::Timer"
+			],
+			[
+				"mainThreadTim",
+				"mainThreadTimeRemainder	long long"
+			],
+			[
+				"getD",
+				"getElapsedTime()	long long"
+			],
+			[
+				"mainThrea",
+				"mainThreadFrameCounter	long long"
+			],
+			[
+				"SHADER",
+				"SHADER_TRANPARENT_TEXTURED	zge::Shader"
+			],
+			[
+				"Ball",
+				"BallSceneBowl()	constructor"
+			],
+			[
+				"set",
+				"setTextureId(const unsigned int)	void"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"tang",
+				"generateTangents()	void"
+			],
+			[
+				"nor",
+				"generateNormals()	void"
+			],
+			[
+				"genete",
+				"generateIcosphereVerticesAndIndices()	void"
+			],
+			[
+				"getS",
+				"getSquareMeshWithHole()	const unsigned int"
+			],
+			[
+				"gene",
+				"generateTextureCoordinates()	void"
+			],
+			[
+				"vert",
+				"vertexCount	unsigned"
+			],
+			[
+				"res",
+				"resize(size_type __new_size)	void"
+			],
+			[
+				"ena",
+				"enableReadDepth()	void"
+			],
+			[
+				"add",
+				"addGameObject(unsigned int, zge::IGameObject *)	void"
+			],
+			[
+				"setM",
+				"setMeshId(const unsigned int)	void"
+			],
+			[
+				"get",
+				"getSquareMesh()	const unsigned int"
+			],
+			[
+				"dis",
+				"disableDepth()	void"
+			],
+			[
+				"s",
+				"setScale(const glm::vec3 scale)	void"
+			],
+			[
+				"spec",
+				"specular"
+			],
+			[
+				"diff",
+				"diffuse"
+			],
+			[
+				"specu",
+				"specularColor"
+			],
+			[
+				"lig",
+				"lighting"
+			],
+			[
+				"world",
+				"worldPosition"
+			],
+			[
+				"tex",
+				"textureColor"
+			],
+			[
+				"spe",
+				"specularPower"
+			],
+			[
+				"Diff",
+				"diffuseColor"
+			],
+			[
+				"view",
+				"viewDirection"
+			],
+			[
+				"going",
+				"goingUp	bool"
+			],
+			[
+				"goign",
+				"goingRight	bool"
+			],
+			[
+				"am",
+				"ambientColor"
+			],
+			[
+				"sp",
+				"specularColor"
+			],
+			[
+				"norm",
+				"normalize"
+			],
+			[
+				"ortho",
+				"ortho(T left, T right, T bottom, T top, T zNear, T zFar)	tmat4x4<T, defaultp>"
+			],
+			[
+				"getI",
+				"getIdentityMatrix() const	const glm::mat4 &"
+			],
+			[
+				"vec",
+				"vec4"
+			],
+			[
+				"out",
+				"outputColor"
+			],
+			[
+				"SOIL_load_OGL_tex",
+				"SOIL_load_OGL_texture_from_memory(const unsigned char *const buffer, int buffer_length, int force_channels, unsigned int reuse_texture_ID, unsigned int flags)	unsigned int"
+			],
+			[
+				"MAX",
+				"MAXPATHLEN	macro"
+			],
+			[
+				"glDele",
+				"glDeleteBuffers	macro"
+			],
+			[
+				"c",
+				"c_str() const	const _CharT *"
+			],
+			[
+				"ex",
+				"existingTextures	std::unordered_map<std::string, unsigned int>"
+			],
+			[
+				"str",
+				"str	string(str)"
+			],
+			[
+				"wr",
+				"LINEAR_WRAP	zge::SamplerType"
+			],
+			[
+				"setT",
+				"setTexture(const unsigned int textureLocation, const unsigned int textureId, const unsigned int samplerType, const unsigned int shaderType)	void"
+			],
+			[
+				"getM",
+				"getMaterial() const	zge::IMaterial *"
+			],
+			[
+				"relf",
+				"reflectDirection"
+			],
+			[
+				"light",
+				"lightDirection"
+			],
+			[
+				"in",
+				"instanceMatrix"
+			],
+			[
+				"rotat",
+				"rotationMatrix	glm::mat4"
+			],
+			[
+				"cm",
+				"cameraUp	glm::vec3"
+			],
+			[
+				"f",
+				"forward	const glm::vec3"
+			],
+			[
+				"glEna",
+				"glEnableVertexAttribArray	macro"
+			],
+			[
+				"OpenGl",
+				"OpenGLResourceManager	class"
+			],
+			[
+				"Sha",
+				"ShaderInputElement	struct"
+			],
+			[
+				"li",
+				"lightType	zge::LightType"
+			],
+			[
+				"getL",
+				"getLightDirection() const	glm::vec3"
+			],
+			[
+				"insta",
+				"instanceMatrix	glm::mat4"
+			],
+			[
+				"IRe",
+				"IResourceManager"
+			],
+			[
+				"IGame",
+				"IGameObject	class"
+			],
+			[
+				"setSp",
+				"setSpecularColor(const glm::vec4)	void"
+			],
+			[
+				"setConc",
+				"setConstant(const unsigned int indexPosition, const void *bufferData, const unsigned long bufferDataByteSize, const unsigned int shaderType)	void"
+			],
+			[
+				"ligh",
+				"lightType	LightType"
+			],
+			[
+				"getSpec",
+				"getSpecularPower() const	float"
+			],
+			[
+				"Light",
+				"LightType	namespace"
+			],
+			[
+				"Ligh",
+				"LightType	enum"
+			],
+			[
+				"turn",
+				"turnedOn	bool"
+			],
+			[
+				"previous",
+				"previousInputElements	std::vector<ShaderInputElement>"
+			],
+			[
+				"GLFLOAT",
+				"GL_FLOAT	macro"
+			],
+			[
+				"getIn",
+				"getInputElements(const unsigned int programId)	const std::vector<ShaderInputElement> &"
+			],
+			[
+				"SCREE",
+				"SCREEN_NEAR	const float"
+			],
+			[
+				"SCREEN",
+				"SCREEN_WIDTH()	const int"
+			],
+			[
+				"cam",
+				"cameraUp	glm::vec3"
+			],
+			[
+				"Opengl",
+				"OpenGLRenderer	class"
+			],
+			[
+				"glfwGet",
+				"glfwGetCurrentContext()	GLFWwindow *"
+			],
+			[
+				"glfwS",
+				"glfwSwapBuffers(GLFWwindow *window)	void"
+			],
+			[
+				"ini",
+				"initialise()	void"
+			],
+			[
+				"num",
+				"numberOfVertices	unsigned int"
+			],
+			[
+				"TW_TYPE_I",
+				"TW_TYPE_UINT32	ETwType"
+			],
+			[
+				"sim",
+				"simulationThreadTick()	void"
+			],
+			[
+				"net",
+				"networkThreadTick()	void"
+			],
+			[
+				"vis",
+				"visualizationThreadTick()	void"
+			],
+			[
+				"string",
+				"ostringstream	typedef"
+			],
+			[
+				"TwDele",
+				"TwDeleteBar(TwBar *bar)	int"
+			],
+			[
+				"ma",
+				"mainThreadFPS	float"
+			],
+			[
+				"m",
+				"mainThreadFPS	float"
+			],
+			[
+				"st",
+				"startTime	long long"
+			],
+			[
+				"getEl",
+				"getElapsedNanoSeconds()	const long long"
+			],
+			[
+				"exclude",
+				"exclude_folders"
+			],
+			[
+				"camera",
+				"cameraSpeed	float"
+			],
+			[
+				"Mes",
+				"MeshObjectObserver(std::vector<std::pair<bool, MeshObject *> > *, unsigned int)	constructor"
+			],
+			[
+				"en",
+				"end()	iterator"
+			],
+			[
+				"upd",
+				"updateAll()	void"
+			],
+			[
+				"Mesh",
+				"MeshObjectObserver"
+			],
+			[
+				"instance",
+				"instanceIterator	std::vector<Instance>::iterator"
+			],
+			[
+				"instan",
+				"instanceIterator	std::vector<Instance>::iterator"
+			],
+			[
+				"object",
+				"objectIterator	std::vector<std::pair<bool, MeshObject*> >::iterator"
+			],
+			[
+				"obje",
+				"objectPairs	std::vector<std::pair<bool, MeshObject*> >&"
+			],
+			[
+				"Instance",
+				"InstanceSorter	struct"
+			],
+			[
+				"getIns",
+				"getInstanceUnit(zge::MeshObject *, const glm::mat4 &) const	const zge::MeshShader::Instance"
+			],
+			[
+				"shader",
+				"shaderId	unsigned"
+			],
+			[
+				"Late",
+				"LATER"
+			],
+			[
+				"I",
+				"IGlobalTimer	class"
+			],
+			[
+				"CLOCK_RE",
+				"CLOCK_RESOLUTION	macro"
+			],
+			[
+				"trans",
+				"transpose(const matType<T, P> &m)	typename matType<T, P>::transpose_type"
+			],
+			[
+				"transl",
+				"translationMatrix	glm::mat4"
+			],
+			[
+				"int",
+				"instancePositions	std::vector<glm::vec3>"
+			],
+			[
+				"rot",
+				"rotationMatrix	glm::mat4"
+			],
+			[
+				"ZGE_DEPTH",
+				"ZGE_DEPTH_ON	zge::DepthState"
+			],
+			[
+				"glDis",
+				"glDisable(GLenum cap)	void"
+			],
+			[
+				"getUni",
+				"getUniformBuffers(const unsigned int programId, const unsigned int numberOfBuffers)	const std::vector<unsigned int>"
+			],
+			[
+				"In",
+				"InterpolatedVS	const char *"
+			],
+			[
+				"EXIT",
+				"EXIT_FAILURE	macro"
+			],
+			[
+				"exis",
+				"existingShaders	std::unordered_map<std::string, unsigned int>"
+			],
+			[
+				"glDraw",
+				"glDrawElementsIndirect	macro"
+			],
+			[
+				"mesh",
+				"meshIndexCount	std::pair<unsigned, unsigned>"
+			],
+			[
+				"instnac",
+				"instanceDataUnitByteSize	long"
+			],
+			[
+				"numb",
+				"numberOfBuffersToCreate	unsigned"
+			],
+			[
+				"unifor",
+				"uniformBuffersArray	std::vector<unsigned>(0);"
+			],
+			[
+				"unif",
+				"uniformBuffersArray	std::vector<unsigned>(0);"
+			],
+			[
+				"uni",
+				"uniformBuffersArray	std::vector<unsigned>(0);"
+			],
+			[
+				"Openg",
+				"OpenGLResourceManager	class"
+			],
+			[
+				"unire",
+				"uniformBuffersArray	std::vector<unsigned>* "
+			],
+			[
+				"unir",
+				"uniformBuffersArray	std::vector<unsigned>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Simandconc Linux",
+					""
+				],
+				[
+					"Simandconc Linux",
+					"Ninja"
+				],
+				[
+					"Simandconc Linux",
+					"Make"
+				],
+				[
+					"Simandconc Linux",
+					"Run"
+				],
+				[
+					"Simandconc Linux",
+					"VOGL"
+				],
+				[
+					"Simandconc Linux",
+					"Test"
+				]
+			],
+			[
+				"Simandconc Linux",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Add Current File"
+			],
+			[
+				"git diffc",
+				"Git: Diff Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git: diff",
+				"Git: Diff Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"subclancl",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clang",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"to",
+				"TodoReview: Project Files"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"clangfo",
+				"Clang Format: Select Style"
+			],
+			[
+				"build",
+				"Build With: Snowglobe Linux - Make"
+			],
+			[
+				"t",
+				"TodoReview: Project Files"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"bui",
+				"Build With: Snowglobe Linux - Make"
+			],
+			[
+				"buil",
+				"Build With: Snowglobe Linux - Make"
+			],
+			[
+				"o",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"SyntaxFold: Unfold All Default"
+			],
+			[
+				"synt",
+				"SyntaxFold: Fold All Default"
+			],
+			[
+				"synta",
+				"SyntaxFold: Show Panel"
+			],
+			[
+				"syntaxfold",
+				"Preferences: SyntaxFold Settings - User"
+			],
+			[
+				"buile",
+				"Build With: Snowglobe Linux - Make"
+			],
+			[
+				"hlsl",
+				"Set Syntax: HLSL"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"style",
+				"Clang Format: Select Style"
+			],
+			[
+				"forma",
+				"Clang Format: Select Style"
+			],
+			[
+				"sublimeclang",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"REMO",
+				"Package Control: Remove Package"
+			],
+			[
+				"cm",
+				"Set Syntax: CMakeEditor"
+			],
+			[
+				"cma",
+				"Set Syntax: CMakeEditor"
+			],
+			[
+				"cmake",
+				"Set Syntax: CMakeEditor"
+			],
+			[
+				"styl",
+				"Clang Format: Select Style"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 250.0,
+		"history":
+		[
+			"clear()",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/zylex/workspace/C++/PandoraTest"
+	],
+	"file_history":
+	[
+		"/tmp/.fr-BTzeZP/51_SDL_and_modern_opengl/51_SDL_and_modern_opengl.cpp",
+		"/home/zylex/Dropbox/workspace/C++/ScrollingShooterGame/Sprites/background.h",
+		"/home/zylex/Dropbox/workspace/C++/Invadernoid/game.h",
+		"/home/zylex/Dropbox/workspace/C++/ScrollingShooter/Sprites/animatedsprite.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/Game.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/Game.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Threads/SimulationThread.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Threads/SimulationThread.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Helpers/Stats.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Timers/Timer.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/GameObjects/MeshObject.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/GameObjects/MeshObject.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/GameObjects/CompositeObject.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/simandconc.sublime-project",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/src/Scenes/BallScene.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/src/Scenes/BallScene.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/src/GameObjects/BallSceneBox.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/src/GameObjects/BallSceneBox.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/src/GameObjects/BallSceneBowl.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/src/GameObjects/BallSceneBowl.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Helpers/Stats.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Interfaces/IGameState.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Interfaces/IGameObject.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/GameState.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/GameState.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/GameObjects/Light.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/GameObjects/Light.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/GameObjects/Camera.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/GameObjects/CompositeObject.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/GameObjects/Camera.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Timers/Timer.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Helpers/MeshFactory.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/ResourceManager.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Helpers/MeshFactory.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Interfaces/IResourceManager.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/ResourceManager.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/TextureShader.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/Shaders/GLSL/TexturedPS.glsl",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/Shaders/GLSL/TransparentTexturedPS.glsl",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/OpenGLResourceManager.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/Shaders/GLSL/TexturedVS.glsl",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/TransparentTextureShader.cpp",
+		"/home/zylex/.cache/.fr-295MnG/pengi-acw/data/config.txt",
+		"/usr/include/glm/detail/type_vec3.inl",
+		"/usr/include/c++/4.9.2/bits/stl_iterator.h",
+		"/usr/include/c++/4.9.2/bits/stl_vector.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Helpers/ModelFactory.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/OpenGLRenderer.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/OpenGLRenderer.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Interfaces/IRenderer.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/ShaderProgram.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/ShaderManager.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/TransparentTextureShader.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Helpers/ModelFactory.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/TextureShader.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Interfaces/IGame.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/PsychedaelicShader.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/DepthShader.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/OpenGLResourceManager.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Structs and Enums/Shader.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/Renderer.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/Renderer.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/src/BallSceneTweakBar.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/DirectX/DirectXResourceManager.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/Shaders/GLSL/InterpolatedVS.glsl",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/Shaders/GLSL/ColoredVS.glsl",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/Shaders/GLSL/ColoredPS.glsl",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/OpenGLGame.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/cmake/ConfigureOpenGLLibraries.cmake",
+		"/home/zylex/Packages/soil/PKGBUILD",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/cmake/FindGLI.cmake",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/MaterialMeshShader.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/ColorShader.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/ColorShader.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/cmake/FindSOIL.cmake",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/DirectX/MSDN/WICTextureLoader.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/DirectX/MSDN/WICTextureLoader.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/GameObject.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/GameObject.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/MeshShader.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Helpers/Dirty.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/PsychedaelicShader.h",
+		"/home/zylex/Desktop/Football Manager 2015.desktop",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/GameObjects/DirectionalLight.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/GameObjects/DirectionalLight.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Structs and Enums/ShaderInputElement.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/ShaderProgram.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/MeshShader.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/ShaderManager.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/Material.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Abstracts/Material.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Interfaces/IMaterial.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Shaders/include/c++/4.9.2/bits/stl_vector.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/DirectX/DirectXResources.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/DirectX/DirectXResourceManager.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Helpers/TweakBar.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Helpers/TweakBar.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/src/BallSceneTweakBar.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Threads/NetworkingThread.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Threads/ThreadManager.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Threads/ThreadManager.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Threads/AffinityThread.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Threads/VisualizationThread.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Threads/Thread.cpp",
+		"/usr/include/c++/4.9.2/functional",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/OpenGL/OpenGLGame.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Threads/VisualizationThread.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Threads/Thread.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Timers/PosixGlobalTimer.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/src/main.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Timer/Timer.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Timer/Timer.h",
+		"/home/zylex/workspace/C++/SnowGlobe/snowglobe.sublime-project",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Timer/WindowsGlobalTimer.cpp",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/GameEngine/src/Timer/UnixGlobalTimer.h",
+		"/home/zylex/workspace/C++/SimulationAndConcurrency/CMakeLists.txt",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/OpenGL/OpenGLGame.cpp",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/Shaders/MeshShader.h",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/Shaders/MeshShader.cpp",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/GameObjects/MeshObject.cpp",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/Shaders/ShaderManager.cpp",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/Helpers/Dirty.h",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/Abstracts/GameState.h",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/Interfaces/IGameState.h",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/Abstracts/GameState.cpp",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/Abstracts/Game.cpp",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/Interfaces/IGameObject.h",
+		"/home/zylex/workspace/C++/SnowGlobe/GameEngine/src/Abstracts/GameObject.cpp"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SHADER",
+			"Main",
+			"main",
+			"network",
+			"main",
+			"network",
+			"main",
+			"elapsed",
+			"generateSemiSphereMesh",
+			">x",
+			"unsigned",
+			"!=",
+			"});\n",
+			"Box",
+			"keyStream.str()",
+			"noexcept",
+			"i->y",
+			"i",
+			"faces",
+			"<",
+			"newVertices",
+			"faces",
+			"height",
+			"cout",
+			"this->indices",
+			"instanceMatrix *",
+			" > ",
+			">",
+			"i",
+			"<",
+			"this->vertices",
+			"addVertex",
+			"unsigned",
+			"unsigned a = ",
+			"this->vertices",
+			"this->indices",
+			"this->vertices",
+			"addVertex",
+			"or",
+			"it",
+			"vertices",
+			"/*",
+			"getMiddlePoint",
+			"it->p3",
+			"it->p2",
+			"it->p1",
+			"it->",
+			"_vertices",
+			"Vertex",
+			"!=",
+			"TriangleIndex",
+			"->",
+			"i",
+			"this",
+			"i",
+			"indices",
+			"_indices",
+			"push_back",
+			"/ 2",
+			"2",
+			"getMiddlePoint",
+			"_vertices",
+			"->p3",
+			"->p2",
+			"->p1",
+			"p1",
+			"_vertices",
+			"glm::normalize",
+			"this->vertices.push_back({",
+			"_indices",
+			"Vertex",
+			"TriangleIndex",
+			"i3",
+			"i8",
+			"i6",
+			"i2",
+			"i4",
+			"i9",
+			"i7",
+			"i5",
+			"i1",
+			"i0",
+			"_indices",
+			"2.0f",
+			"i",
+			"this->bottomTray",
+			"euler",
+			"euler_angles",
+			"0.5",
+			"ZGE_DEPTH_OFF",
+			"ZGE_DEPTH_READ",
+			"15",
+			"topTray",
+			"front",
+			"right",
+			"back",
+			"Material",
+			"noexcept",
+			"TexturedPS",
+			"TEXTURESHADER_H",
+			"SHADER_TRANPARENT_TEXTURED",
+			"TexturedPS",
+			"Transparent",
+			"TextureShader",
+			"0.2",
+			"ID3D11BlendState",
+			"material",
+			"Material",
+			"material",
+			"Material",
+			"material",
+			"material2",
+			" material",
+			"material",
+			"1.0",
+			"ENABLED",
+			"Raster",
+			"CULL_BACK",
+			"CULL_OFF",
+			"virtual",
+			"CULL_OFF",
+			"normal.xyz",
+			"1.0",
+			"0.8",
+			"=",
+			"  glm::vec3 front;\n  front.x = cos(glm::radians(rotation.y)) * cos(glm::radians(rotation.x));\n  front.y = sin(glm::radians(rotation.x));\n  front.z = sin(glm::radians(rotation.y)) * cos(glm::radians(rotation.x));\n  this->cameraFront = glm::normalize(front);",
+			"texCoord",
+			"0.0f"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"FireBase",
+			"2",
+			"                                   ",
+			"0",
+			" + 0.5f",
+			"8",
+			"* ",
+			"viewMatrix",
+			"matrix",
+			" =",
+			"GL_POINTS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 148.0
+	},
+	"output.exec":
+	{
+		"height": 295.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 154.0
+	},
+	"pinned_build_system": "Simandconc Linux",
+	"project": "PandoraTest.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tweak",
+				"GameEngine/src/Helpers/TweakBar.cpp"
+			],
+			[
+				"ball",
+				"src/Scenes/BallScene.cpp"
+			],
+			[
+				"stats",
+				"GameEngine/src/Helpers/Stats.cpp"
+			],
+			[
+				"res",
+				"GameEngine/src/Abstracts/ResourceManager.h"
+			],
+			[
+				"ire",
+				"GameEngine/src/Interfaces/IResourceManager.h"
+			],
+			[
+				"ires",
+				"GameEngine/src/Interfaces/IResourceManager.h"
+			],
+			[
+				"resou",
+				"GameEngine/src/Abstracts/ResourceManager.h"
+			],
+			[
+				"camera",
+				"GameEngine/src/GameObjects/Camera.cpp"
+			],
+			[
+				"tex",
+				"GameEngine/src/Shaders/TextureShader.cpp"
+			],
+			[
+				"opglrend",
+				"GameEngine/src/OpenGL/OpenGLRenderer.cpp"
+			],
+			[
+				"tran",
+				"GameEngine/src/OpenGL/Shaders/GLSL/TransparentTexturedPS.glsl"
+			],
+			[
+				"model",
+				"GameEngine/src/Helpers/ModelFactory.cpp"
+			],
+			[
+				"shad",
+				"GameEngine/src/Structs and Enums/Shader.h"
+			],
+			[
+				"shaman",
+				"GameEngine/src/Shaders/ShaderManager.cpp"
+			],
+			[
+				"igam",
+				"GameEngine/src/Interfaces/IGame.h"
+			],
+			[
+				"openglrenderer",
+				"GameEngine/src/OpenGL/OpenGLRenderer.cpp"
+			],
+			[
+				"opren",
+				"GameEngine/src/OpenGL/OpenGLRenderer.cpp"
+			],
+			[
+				"cam",
+				"GameEngine/src/GameObjects/Camera.cpp"
+			],
+			[
+				"compos",
+				"GameEngine/src/GameObjects/CompositeObject.cpp"
+			],
+			[
+				"came",
+				"GameEngine/src/GameObjects/Camera.cpp"
+			],
+			[
+				"meshf",
+				"GameEngine/src/Helpers/MeshFactory.cpp"
+			],
+			[
+				"opres",
+				"GameEngine/src/OpenGL/OpenGLResourceManager.cpp"
+			],
+			[
+				"dires",
+				"GameEngine/src/DirectX/DirectXResourceManager.cpp"
+			],
+			[
+				"oprend",
+				"GameEngine/src/OpenGL/OpenGLRenderer.cpp"
+			],
+			[
+				"colorsh",
+				"GameEngine/src/Shaders/ColorShader.cpp"
+			],
+			[
+				"colo",
+				"GameEngine/src/OpenGL/Shaders/GLSL/ColoredPS.glsl"
+			],
+			[
+				"bal",
+				"src/Scenes/BallScene.cpp"
+			],
+			[
+				"direxres",
+				"GameEngine/src/DirectX/DirectXResourceManager.cpp"
+			],
+			[
+				"shadermana",
+				"GameEngine/src/Shaders/ShaderManager.cpp"
+			],
+			[
+				"psyc",
+				"GameEngine/src/Shaders/PsychedaelicShader.cpp"
+			],
+			[
+				"psy",
+				"GameEngine/src/Shaders/PsychedaelicShader.cpp"
+			],
+			[
+				"ba",
+				"src/Scenes/BallScene.cpp"
+			],
+			[
+				"gast",
+				"GameEngine/src/Abstracts/GameState.cpp"
+			],
+			[
+				"gamestat",
+				"GameEngine/src/Abstracts/GameState.h"
+			],
+			[
+				"iga",
+				"GameEngine/src/Interfaces/IGameState.h"
+			],
+			[
+				"shaderma",
+				"GameEngine/src/Shaders/ShaderManager.h"
+			],
+			[
+				"iren",
+				"GameEngine/src/Interfaces/IRenderer.h"
+			],
+			[
+				"ballsc",
+				"src/Scenes/BallScene.cpp"
+			],
+			[
+				"depthsh",
+				"GameEngine/src/Shaders/DepthShader.cpp"
+			],
+			[
+				"threadma",
+				"GameEngine/src/Threads/ThreadManager.cpp"
+			],
+			[
+				"render",
+				"GameEngine/src/Abstracts/Renderer.cpp"
+			],
+			[
+				"vis",
+				"GameEngine/src/Threads/VisualizationThread.cpp"
+			],
+			[
+				"glga",
+				"GameEngine/src/OpenGL/OpenGLGame.cpp"
+			],
+			[
+				"visu",
+				"GameEngine/src/Threads/VisualizationThread.cpp"
+			],
+			[
+				"gam",
+				"GameEngine/src/Abstracts/Game.h"
+			],
+			[
+				"opeglgam",
+				"GameEngine/src/OpenGL/OpenGLGame.cpp"
+			],
+			[
+				"rend",
+				"GameEngine/src/Abstracts/Renderer.h"
+			],
+			[
+				"timer",
+				"GameEngine/src/Timers/Timer.cpp"
+			],
+			[
+				"basc",
+				"src/Scenes/BallScene.cpp"
+			],
+			[
+				"meshshader",
+				"GameEngine/src/Shaders/MeshShader.cpp"
+			],
+			[
+				"mesh",
+				"GameEngine/src/Shaders/MeshShader.h"
+			],
+			[
+				"operes",
+				"GameEngine/src/OpenGL/OpenGLResourceManager.h"
+			],
+			[
+				"resour",
+				"GameEngine/src/Abstracts/ResourceManager.h"
+			],
+			[
+				"dxres",
+				"GameEngine/src/DirectX/DirectXResourceManager.h"
+			],
+			[
+				"dirres",
+				"GameEngine/src/DirectX/DirectXResourceManager.cpp"
+			],
+			[
+				"dirren",
+				"GameEngine/src/DirectX/DirectXRenderer.cpp"
+			],
+			[
+				"openrendrer",
+				"GameEngine/src/OpenGL/OpenGLRenderer.h"
+			],
+			[
+				"direres",
+				"GameEngine/src/DirectX/DirectXResourceManager.h"
+			],
+			[
+				"directxres",
+				"GameEngine/src/DirectX/DirectXResourceManager.cpp"
+			],
+			[
+				"directxrenderer",
+				"GameEngine/src/DirectX/DirectXRenderer.cpp"
+			],
+			[
+				"depth",
+				"GameEngine/src/Shaders/DepthShader.cpp"
+			],
+			[
+				"openglgam",
+				"GameEngine/src/OpenGL/OpenGLGame.cpp"
+			],
+			[
+				"renderer",
+				"GameEngine/src/OpenGL/OpenGLRenderer.cpp"
+			],
+			[
+				"resourcemanager",
+				"GameEngine/src/Abstracts/ResourceManager.cpp"
+			],
+			[
+				"resourc",
+				"GameEngine/src/Interfaces/IResourceManager.h"
+			],
+			[
+				"openglresourcemanager",
+				"GameEngine/src/OpenGL/OpenGLResourceManager.cpp"
+			],
+			[
+				"snow",
+				"snowglobe.sublime-project"
+			],
+			[
+				"win",
+				"GameEngine/src/Timer/WindowsGlobalTimer.h"
+			],
+			[
+				"instn",
+				"GameEngine/src/Shaders/InstancedShader.cpp"
+			],
+			[
+				"opga",
+				"GameEngine/src/OpenGL/OpenGLGame.cpp"
+			],
+			[
+				"mes",
+				"GameEngine/src/Shaders/MeshShader.cpp"
+			],
+			[
+				"glo",
+				"src/Scenes/GlobeScene.cpp"
+			],
+			[
+				"sno",
+				"snowglobe.sublime-project"
+			],
+			[
+				"glob",
+				"src/Scenes/GlobeScene.cpp"
+			],
+			[
+				"dirty",
+				"GameEngine/src/Helpers/Dirty.cpp"
+			],
+			[
+				"globe",
+				"src/Scenes/GlobeScene.cpp"
+			],
+			[
+				"inter",
+				"GameEngine/src/OpenGL/Shaders/GLSL/InterpolatedVS.glsl"
+			],
+			[
+				"openglgame",
+				"GameEngine/src/OpenGL/OpenGLGame.cpp"
+			],
+			[
+				"interp",
+				"GameEngine/src/OpenGL/Shaders/GLSL/InterpolatedVS.glsl"
+			],
+			[
+				"ishd",
+				"GameEngine/src/Interfaces/IShaderProgram.h"
+			],
+			[
+				"ins",
+				"GameEngine/src/Shaders/InstancedShader.cpp"
+			],
+			[
+				"shamana",
+				"GameEngine/src/Shaders/ShaderManager.cpp"
+			],
+			[
+				"openglga",
+				"GameEngine/src/OpenGL/OpenGLGame.cpp"
+			],
+			[
+				"main",
+				"src/main.cpp"
+			],
+			[
+				"instanc",
+				"GameEngine/src/Shaders/InstancedShader.h"
+			],
+			[
+				"instance",
+				"GameEngine/src/Shaders/InstancedShader.cpp"
+			],
+			[
+				"shaderpr",
+				"GameEngine/src/Abstracts/ShaderProgram.cpp"
+			],
+			[
+				"shader",
+				"GameEngine/src/Shaders/ShaderManager.cpp"
+			],
+			[
+				"ishaderpro",
+				"GameEngine/src/Interfaces/IShaderProgram.h"
+			],
+			[
+				"ps",
+				"GameEngine/src/Shaders/PsychedaelicShader.cpp"
+			],
+			[
+				"shaderpro",
+				"GameEngine/src/Abstracts/ShaderProgram.cpp"
+			],
+			[
+				"shaderprog",
+				"GameEngine/src/Abstracts/ShaderProgram.h"
+			],
+			[
+				"depthst",
+				"GameEngine/src/Structs and Enums/DepthState.h"
+			],
+			[
+				"openglre",
+				"GameEngine/src/OpenGL/OpenGLRenderer.cpp"
+			],
+			[
+				"rendere",
+				"GameEngine/src/OpenGL/OpenGLRenderer.h"
+			],
+			[
+				"instan",
+				"GameEngine/src/Shaders/InstancedShader.cpp"
+			],
+			[
+				"abs",
+				"GameEngine/src/Abstracts/AbstractGame.h"
+			],
+			[
+				"globes",
+				"src/Scenes/GlobeScene.cpp"
+			],
+			[
+				"openglg",
+				"GameEngine/src/OpenGL/OpenGLGame.h"
+			],
+			[
+				"inputmanager",
+				"GameEngine/src/OpenGL/OpenGLInputManager.h"
+			],
+			[
+				"abstract",
+				"GameEngine/src/Abstracts/AbstractGame.cpp"
+			],
+			[
+				"input",
+				"GameEngine/src/Abstracts/InputManager.cpp"
+			],
+			[
+				"openglinputmanager",
+				"GameEngine/src/OpenGL/OpenGLInputManager.h"
+			],
+			[
+				"irenderer",
+				"GameEngine/src/Interfaces/IRenderer.h"
+			],
+			[
+				"depthsha",
+				"GameEngine/src/Shaders/DepthShader.cpp"
+			],
+			[
+				"shaderman",
+				"GameEngine/src/Shaders/ShaderManager.cpp"
+			],
+			[
+				"openglren",
+				"GameEngine/src/OpenGL/OpenGLRenderer.cpp"
+			],
+			[
+				"abst",
+				"GameEngine/src/Abstracts/AbstractGame.h"
+			],
+			[
+				"material",
+				"GameEngine/src/Shaders/MaterialMeshShader.cpp"
+			],
+			[
+				"ater",
+				"GameEngine/src/Shaders/MaterialMeshShader.h"
+			],
+			[
+				"shaderp",
+				"GameEngine/src/Abstracts/ShaderProgram.h"
+			],
+			[
+				"meshshad",
+				"GameEngine/src/Shaders/MeshShader.cpp"
+			],
+			[
+				"meshsh",
+				"GameEngine/src/Shaders/MeshShader.h"
+			],
+			[
+				"dept",
+				"GameEngine/src/Shaders/DepthShader.cpp"
+			],
+			[
+				"igame",
+				"GameEngine/src/Interfaces/IGame.h"
+			],
+			[
+				"abste",
+				"GameEngine/src/Abstracts/AbstractGame.cpp"
+			],
+			[
+				"abstractgame",
+				"GameEngine/src/Abstracts/AbstractGame.cpp"
+			],
+			[
+				"iin",
+				"GameEngine/src/Interfaces/IInputManager.h"
+			],
+			[
+				"openglin",
+				"GameEngine/src/OpenGL/OpenGLInputManager.cpp"
+			],
+			[
+				"openglinput",
+				"GameEngine/src/OpenGL/OpenGLInputManager.h"
+			],
+			[
+				"inpu",
+				"GameEngine/src/Abstracts/InputManager.cpp"
+			],
+			[
+				"inpur",
+				"GameEngine/src/Abstracts/InputManager.h"
+			],
+			[
+				"iinputmanager",
+				"GameEngine/src/Interfaces/IInputManager.h"
+			],
+			[
+				"irender",
+				"GameEngine/src/Interfaces/IRenderer.h"
+			],
+			[
+				"openglrend",
+				"GameEngine/src/OpenGL/OpenGLRenderer.h"
+			],
+			[
+				"dep",
+				"GameEngine/src/Shaders/DepthShader.h"
+			],
+			[
+				"openglres",
+				"GameEngine/src/OpenGL/OpenGLResourceManager.h"
+			],
+			[
+				"directxg",
+				"GameEngine/src/DirectX/DirectXGame.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
