@@ -380,25 +380,25 @@ int main(int argc, char** argv)
               vVertices[7] -= 0.01f;
               break;
             }
-            case 116: // D-Pad down
+            case 113: // D-Pad left
             {
-              vVertices[1] += 0.01f;
-              vVertices[4] += 0.01f;
-              vVertices[7] += 0.01f;
+              vVertices[0] += 0.01f;
+              vVertices[3] += 0.01f;
+              vVertices[6] += 0.01f;
               break;
             }
-            case 113: // D-Pad right
+            case 114: // D-Pad right
             {
               vVertices[0] -= 0.01f;
               vVertices[3] -= 0.01f;
               vVertices[6] -= 0.01f;
               break;
             }
-            case 114: // D-Pad left
+            case 116: // D-Pad down
             {
-              vVertices[0] += 0.01f;
-              vVertices[3] += 0.01f;
-              vVertices[6] += 0.01f;
+              vVertices[1] += 0.01f;
+              vVertices[4] += 0.01f;
+              vVertices[7] += 0.01f;
               break;
             }
             default:
